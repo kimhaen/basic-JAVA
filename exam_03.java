@@ -3,7 +3,7 @@ package test;
 public class Exam_01 {
 	public static void main (String[] args) {
 		
-		System.out.println("Hello, world!");
+		System.out.println("Hello, World!");
 		System.out.println("================="); // 変数名を指定、数字を入力、出力
 		
 		int year = 2019;
